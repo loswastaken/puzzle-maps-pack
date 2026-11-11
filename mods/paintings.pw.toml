@@ -1,0 +1,13 @@
+name = "Paintings ++"
+filename = "paintings-1.17.1-8.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24c82958c5d9aea0d2ceb49540068eded90ba60e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3445201
+project-id = 252042

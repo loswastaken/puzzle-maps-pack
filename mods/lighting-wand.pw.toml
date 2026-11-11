@@ -1,0 +1,13 @@
+name = "Lighting Wand 🌟 (Neo/Forge)"
+filename = "LightingWand-1.17.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c24e8d833bfedaa30942407c0018f0edcc9e0ca9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3400746
+project-id = 296028

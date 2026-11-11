@@ -1,0 +1,13 @@
+name = "Overworld Quartz (FORGE)"
+filename = "overworld_quartz-1.17.1-1.1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1545a0417672b138352157ddce30d288a34b8f5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3438877
+project-id = 379686

@@ -1,0 +1,231 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "acc33a7a02efd3018e8e36824987d7c03aa4f8fff009266db2c7a84de47b6ac7"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "c975e054a72b795725e842dc82a92ee509993f47d7e74cdca2424153ecbdca2e"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "5d70ff9b63aa5ce3255b0d20fd5245dd99b29e6bcc3625b16f2145da11d43ca9"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "cf91b7fee4bdcc51e2daa6cf6d8f20b4bfc7ec30b79e0429898597cce64d3acd"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "d06571847fb76dbbbe22b4749ab20fab6ad058f8e46a7df886c638a4ce53c977"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "fd667adb1fb739d4c36344222fc1b4885dd4cdffb1742e1426a3e58719ca361a"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.pw.toml"
+hash = "5dd4fe6bb7815e5c76ca5264d2eb2c0b33d0a89d7edc83e67660a1bfcf744692"
+metafile = true
+
+[[files]]
+file = "mods/datapack-anvil.pw.toml"
+hash = "eface0b7e80754bdbc81fc8cd1bbbe0a4cbb829a277ca565d28f518713449adc"
+metafile = true
+
+[[files]]
+file = "mods/death-knell.pw.toml"
+hash = "6695760dd49b64789f19eaf0680e000d0c0408856c95f6885f0f8ceb3e2ca8f8"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents.pw.toml"
+hash = "25a04afeea01eaa6702c8c987892d3bd6440c6b240d749cc6cbf68b1eae1d0ab"
+metafile = true
+
+[[files]]
+file = "mods/escape-rope.pw.toml"
+hash = "dd6c2ee25f474ff4caa7419fc056b089869aa3bcf307dc82b0a899034f00afa5"
+metafile = true
+
+[[files]]
+file = "mods/extra-armor.pw.toml"
+hash = "1a18e321ff8f4446ea1fd6ff757e7f11159531bf0c02f783a08948ce11723d00"
+metafile = true
+
+[[files]]
+file = "mods/global-xp.pw.toml"
+hash = "bc47b63c7b3e132e84f781714872b2c1383d8e68146bfc58c4b68e0ca8caac65"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "d5c6ca11b54f9b86428eabae69679d79d703fd1df2774d0d8225fb9dce3e1210"
+metafile = true
+
+[[files]]
+file = "mods/headshot-forge.pw.toml"
+hash = "ae154d81bd1a64c859edf138ef1f39590edf8d057662fd4828b8be2de7448f04"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "b7ae096cfa4f9bae18830304aec950f5905c84cc68214e590dd2bc2327d00b4f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b568d290d4abc44762e62bb795c7fd9708c4442122f2326da4b4e4400f6be6ab"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "51473554b95e565c6ca8fc081189fa72e5dc75b36cba1bf05712a9dfa8ab37e1"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "7c19626153037a9835cfcb57e68cba56bc9ea5da072ec068d151d09524d7de5e"
+metafile = true
+
+[[files]]
+file = "mods/lighting-wand.pw.toml"
+hash = "ee3a2a74429e66f93f061535ab0f70873873410ae22286d906410bf96446c0d1"
+metafile = true
+
+[[files]]
+file = "mods/magic-combat-wands.pw.toml"
+hash = "cccc5e7dc85a389b3ae84975a814290200dfbbdf5dc10f019e4d768843487ca6"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "0de244bb9a99c3c520723f6e8707d2a323e28dd9a01148212254793edd3b40bf"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "4b49b0b846e1dcf5ea7af721ee3deb1ea7540f839c79e255dd95895ec714d99d"
+metafile = true
+
+[[files]]
+file = "mods/overworld-quartz-forge.pw.toml"
+hash = "d498028a6f807fe0da89bd9e1ff2d9ef43ff0d5c35b18a132f8aec6ead46903b"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "18d4bcb1b9baf6945248b9806ab4f6476eee4a0f87e406c1b5caf4df0a8c7de5"
+metafile = true
+
+[[files]]
+file = "mods/prefab.pw.toml"
+hash = "41ebd74cb3a49607685dc686c758822d0d91b46ed50194256a5aa825e4a3b629"
+metafile = true
+
+[[files]]
+file = "mods/pretty-beaches.pw.toml"
+hash = "0d6f3fd859a5356071e079fafd357801b973be4dc5eea29b81f6c350a39981ec"
+metafile = true
+
+[[files]]
+file = "mods/regrowth.pw.toml"
+hash = "891e8cb8f50bcba4d5bd08103edbc035437ac14d14a4c2019285696ca22b4398"
+metafile = true
+
+[[files]]
+file = "mods/rucksacks-mod.pw.toml"
+hash = "503f8a07fc13a1b0902ed054d769b0b9aacd2e4d060c799272a1247e10ba39b4"
+metafile = true
+
+[[files]]
+file = "mods/scary-twig-snap.pw.toml"
+hash = "1cb6471bf2affba2ad4b929158e1fe098767bc77ebccd50c0fcae7954f2f2ffc"
+metafile = true
+
+[[files]]
+file = "mods/scuba-gear.pw.toml"
+hash = "6de3d32a38815be6bb4571f75f6d291b8359b4d48b7a29e1afa40c3a3c98a065"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "776774fb8cb43213d73f528193875af078c6e46152181926bea2801112c1cf4e"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "cc52e82dea401118586335407bbfe0210ec7766a82b0ebbc3ef39067c7703639"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "704a247833199dbb932a7a999b13252d6ae8ea431b898f64c4194655de2e5fe9"
+metafile = true
+
+[[files]]
+file = "mods/snowballs-freeze-mobs.pw.toml"
+hash = "1f3db9e79eecd178fe2b199e99a2d535b005682b864737c12e3e3799b41b045f"
+metafile = true
+
+[[files]]
+file = "mods/tactical-fishing.pw.toml"
+hash = "0b21054c80848e5bfecb7ebe370c65b6481818411e53b68dfa388401b6f6453a"
+metafile = true
+
+[[files]]
+file = "mods/the-veggie-way.pw.toml"
+hash = "44be27072813296f21470a45145cb1739cae861488702b7b69185a3d5a759528"
+metafile = true
+
+[[files]]
+file = "mods/timeoutfixes.pw.toml"
+hash = "76f5a03db5bdbf92d4c50747beadbc412532819b133997c22b3c1036e16784ff"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "80ddafc4bfefc5efb4d45f23db6bd74b92bb4c82e3281a4f48466e6f0fc75887"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "a9801f096ed15b2abc207437bdfef13a6c6b74b1ea90c4951d00fac297a8c94b"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "61fcaef122761f22477722b17ee81dc850fe6a03361392d872e3aa592227caad"
+metafile = true
+
+[[files]]
+file = "mods/villager-tools.pw.toml"
+hash = "1afe2b79021eb1fb68a948ff26ef9585755449bb0b18965dc50b92855033b17c"
+metafile = true
+
+[[files]]
+file = "mods/water-strainer.pw.toml"
+hash = "216e559f67f8ad4b83d7c0ca8d21e120162cc7fdd32816e784c87ad52168be02"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "beedfc3c6728b1935c1bfd3ae894123033620b66441cbc16572098e3f2f1aba6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "c47cac2840027abe5b54bf06b1a9bf4e150c74b289dc86f27973fea7fa45d5e0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b93c51af4f01021d6b7ab0e587d7ed6ceeb6607c402a217bfb141f454d3d595f"
+metafile = true

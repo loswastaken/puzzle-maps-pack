@@ -1,0 +1,13 @@
+name = "Guard Villagers"
+filename = "guardvillagers-1.17.1.1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5749b8477b5984d3e5a47317b32e79dbe38a2097"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3449434
+project-id = 360203

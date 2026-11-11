@@ -1,0 +1,13 @@
+name = "Rucksacks."
+filename = "rucksacks-1.17.1-0.3.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55fe88083cf5aa119de1e2d241ef4b3d0933e859"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3518534
+project-id = 539478

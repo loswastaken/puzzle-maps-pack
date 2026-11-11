@@ -1,0 +1,13 @@
+name = "Headshot [Forge]"
+filename = "headshot-1.17.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76e2e4ecb2ecdad52bd71ac10704c175313e9621"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3504728
+project-id = 538264

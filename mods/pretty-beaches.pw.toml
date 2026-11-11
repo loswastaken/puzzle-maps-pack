@@ -1,0 +1,13 @@
+name = "Pretty Beaches"
+filename = "prettybeaches-6.0.0+0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be4d73674e1afc755068b5a3b7122ddd26504282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3502133
+project-id = 290659

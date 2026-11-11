@@ -1,0 +1,13 @@
+name = "Scary Twig Snap"
+filename = "scarytwigsnap-1.17.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2802c55f125bf0450a36f10a86134c5e161f1371"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3505849
+project-id = 539278

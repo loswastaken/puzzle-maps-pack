@@ -1,0 +1,13 @@
+name = "Prefab"
+filename = "prefab-1.7.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a8aa2812077f7c336bae3e03bf674ac2b3a5b3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3479152
+project-id = 246550

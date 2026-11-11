@@ -1,0 +1,13 @@
+name = "Balm"
+filename = "balm-1.7.0+0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3450ae93d2f9aa3437b27ee7c14ce8d3d94614c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3502124
+project-id = 531761

@@ -1,0 +1,13 @@
+name = "The Veggie Way [FORGE/NEOFORGE]"
+filename = "TheVeggieWay-Forge-1.17.1-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5aa14ed4ad7068c96d23d135fe1b9a070c5ffdf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3462016
+project-id = 270684

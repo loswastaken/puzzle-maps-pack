@@ -1,0 +1,13 @@
+name = "Village Artifacts"
+filename = "villagertools-1.17.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fafd809b0031e66b9a7ea80f5ac5727bc08c18b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3405932
+project-id = 469301
