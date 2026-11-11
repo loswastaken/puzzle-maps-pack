@@ -82,8 +82,6 @@ if (-not (Test-Path $servers)) {
     [IO.File]::WriteAllBytes($servers, [Convert]::FromBase64String($ServersB64))
 }
 
-Get-HandDownload 'Escape Rope 1.1.2' 'https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-neoforge/files/3512824' 'EscapeRope-Forge-1.17.1-1.1.2.jar' 'c01089d927c9d1d97ff73a8ae792d53d86220453' $true
-
 $ofFile = 'OptiFine_1.17.1_HD_U_H1.jar'
 if (Test-Path (Join-Path $Mods $ofFile)) { Write-Host 'OptiFine is already in place.' }
 else {

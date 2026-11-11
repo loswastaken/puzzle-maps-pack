@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/escape-rope.pw.toml"
-hash = "dd6c2ee25f474ff4caa7419fc056b089869aa3bcf307dc82b0a899034f00afa5"
+hash = "abaf379445aa50ca178e7c535b87aeda41e3469502bf321c3e0631278e4479c8"
 metafile = true
 
 [[files]]

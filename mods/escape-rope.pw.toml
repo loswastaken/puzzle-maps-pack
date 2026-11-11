@@ -3,11 +3,6 @@ filename = "EscapeRope-Forge-1.17.1-1.1.2.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/3512/824/EscapeRope-Forge-1.17.1-1.1.2.jar"
 hash-format = "sha1"
 hash = "c01089d927c9d1d97ff73a8ae792d53d86220453"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3512824
-project-id = 533528

@@ -18,7 +18,7 @@ macOS / Linux:
 It installs Prism Launcher if needed, creates (or refreshes) the "Puzzle Maps" instance, sets up the mod sync and adds the server. Then open Prism, sign in with your Microsoft account, and press Play. Read `join.ps1` / `join.sh` first if you like; they only touch Prism's own folder.
 
 ## Hand downloads
-- **Escape Rope 1.1.2** (required): its author blocks automatic downloads. The script opens https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-neoforge/files/3512824 and picks the file up from your Downloads folder (checksum-checked). If you skip it, the launch-time sync will ask for it too.
+- **Escape Rope 1.1.2** (required): no longer a hand download. Its old CurseForge page is gone (the author deprecated the mod and reused the project for Awesome Dungeon Ocean - NeoForge), so the pack now fetches the same file straight from CurseForge's CDN (file 3512824, sha1-checked) during the launch-time sync.
 - **OptiFine 1.17.1 HD U H1** (optional, recommended): the script asks, opens https://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_H1.jar and picks it up from Downloads. OptiFine can't be linked in a pack, so it's never synced automatically.
 
 ## Manual setup

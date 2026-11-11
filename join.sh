@@ -90,8 +90,6 @@ hand_download() {
   else echo "$label skipped. To add it later, download $file from $page and drop it into $MODS"; fi
 }
 
-hand_download 'Escape Rope 1.1.2' 'https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-neoforge/files/3512824' 'EscapeRope-Forge-1.17.1-1.1.2.jar' 'c01089d927c9d1d97ff73a8ae792d53d86220453' 1
-
 OF_FILE='OptiFine_1.17.1_HD_U_H1.jar'
 if [ -f "$MODS/$OF_FILE" ]; then echo "OptiFine is already in place."
 else
